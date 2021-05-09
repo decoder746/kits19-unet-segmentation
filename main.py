@@ -15,7 +15,7 @@ def dice_loss(seg,gt):
     seg = seg.flatten()
     gt = gt.flatten()
     eps = 1e-5
-    dice = (2 * (gt * seg).sum())/(gt.sum() + seg.sum()+eps)
+    dice = (2 * (gt * seg).sum())/((gt*gt).sum() + (seg*seg).sum()+eps)
     return dice
 
 
