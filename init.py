@@ -15,6 +15,7 @@ class InitParser(object):
         self.num_epoch = 10
         self.init_epoch = 1
         self.is_load = False
+        self.lam = 1
 
         # path setting
         self.output_path = "../output/UNet3D/"

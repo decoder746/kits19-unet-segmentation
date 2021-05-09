@@ -11,6 +11,14 @@ from init import InitParser
 import UNet
 
 
+def dice_loss(seg,gt):
+    seg = seg.flatten()
+    gt = gt.flatten()
+    eps = 1e-5
+    dice = (2 * (gt * seg).sum())/(gt.sum() + seg.sum()+eps)
+    return dice
+
+
 def test_epoch(net, loader):
     net.eval()
     test_dice_meter = AvgMeter()
@@ -27,7 +35,7 @@ def test_epoch(net, loader):
     return test_dice_meter.avg
 
 
-def train_epoch(net, loader, optimizer, cost):
+def train_epoch(net, loader, optimizer, cost, lam):
     net.train()
     
     batch_loss = AvgMeter()
@@ -37,7 +45,7 @@ def train_epoch(net, loader, optimizer, cost):
 
         output = net(data)
 
-        loss = cost(output, label)
+        loss = cost(output, label) + lam*dice_loss(output, label)
 
         optimizer.zero_grad()
         loss.backward()
@@ -78,7 +86,7 @@ def main(args):
     best_dice = 0.
     for epoch in range(args.init_epoch, args.init_epoch+args.num_epoch):
         start_time = time.time()
-        epoch_loss = train_epoch(net, train_loader, optimizer, cost)
+        epoch_loss = train_epoch(net, train_loader, optimizer, cost, args.lam)
         epoch_time = time.time() - start_time
         epoch_dice = test_epoch(net, test_loader)
 
