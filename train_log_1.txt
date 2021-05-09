@@ -1,0 +1,627 @@
+Train Batch 0000 || Loss: 0.6309
+Train Batch 0001 || Loss: 0.6945
+tcmalloc: large alloc 1516240896 bytes == 0x55b610fb0000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0002 || Loss: 0.6082
+Train Batch 0003 || Loss: 0.6019
+Train Batch 0004 || Loss: 0.6093
+Train Batch 0005 || Loss: 0.6161
+Train Batch 0006 || Loss: 0.6056
+Train Batch 0007 || Loss: 0.5851
+Train Batch 0008 || Loss: 0.5833
+Train Batch 0009 || Loss: 0.5786
+Train Batch 0010 || Loss: 0.5781
+Train Batch 0011 || Loss: 0.5791
+Train Batch 0012 || Loss: 0.5481
+Train Batch 0013 || Loss: 0.5657
+Train Batch 0014 || Loss: 0.5699
+Train Batch 0015 || Loss: 0.5718
+Train Batch 0016 || Loss: 0.5440
+Train Batch 0017 || Loss: 0.5383
+Train Batch 0018 || Loss: 0.5444
+Train Batch 0019 || Loss: 0.5285
+tcmalloc: large alloc 1405091840 bytes == 0x55b5e7970000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0020 || Loss: 0.5253
+Train Batch 0021 || Loss: 0.5171
+Train Batch 0022 || Loss: 0.5213
+Train Batch 0023 || Loss: 0.5127
+Train Batch 0024 || Loss: 0.5145
+Train Batch 0025 || Loss: 0.6726
+tcmalloc: large alloc 1432354816 bytes == 0x55b5e7970000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0026 || Loss: 0.5011
+Train Batch 0027 || Loss: 0.5209
+Train Batch 0028 || Loss: 0.5208
+Train Batch 0029 || Loss: 0.5098
+Train Batch 0030 || Loss: 0.4967
+Train Batch 0031 || Loss: 0.4897
+Train Batch 0032 || Loss: 0.4988
+Train Batch 0033 || Loss: 0.5018
+Train Batch 0034 || Loss: 0.4885
+Train Batch 0035 || Loss: 0.4840
+Train Batch 0036 || Loss: 0.5120
+Train Batch 0037 || Loss: 0.4931
+Train Batch 0038 || Loss: 0.4975
+Train Batch 0039 || Loss: 0.4818
+Train Batch 0040 || Loss: 0.5107
+Train Batch 0041 || Loss: 0.4688
+Train Batch 0042 || Loss: 0.4780
+Train Batch 0043 || Loss: 0.4817
+Train Batch 0044 || Loss: 0.4798
+Train Batch 0045 || Loss: 0.4802
+Train Batch 0046 || Loss: 0.4779
+Train Batch 0047 || Loss: 0.4712
+Train Batch 0048 || Loss: 0.5015
+tcmalloc: large alloc 1541406720 bytes == 0x55b5e7970000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0049 || Loss: 0.4722
+Train Batch 0050 || Loss: 0.4625
+Train Batch 0051 || Loss: 0.4739
+Train Batch 0052 || Loss: 0.4860
+Train Batch 0053 || Loss: 0.6393
+Train Batch 0054 || Loss: 0.4731
+Train Batch 0055 || Loss: 0.4779
+Train Batch 0056 || Loss: 0.4769
+Train Batch 0057 || Loss: 0.4700
+Train Batch 0058 || Loss: 0.4712
+Train Batch 0059 || Loss: 0.4798
+Train Batch 0060 || Loss: 0.4829
+Train Batch 0061 || Loss: 0.4825
+Train Batch 0062 || Loss: 0.4687
+Train Batch 0063 || Loss: 0.4615
+Train Batch 0064 || Loss: 0.4740
+tcmalloc: large alloc 2069889024 bytes == 0x55b5e7970000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0065 || Loss: 0.5989
+Train Batch 0066 || Loss: 0.4709
+Train Batch 0067 || Loss: 0.4656
+Train Batch 0068 || Loss: 0.4585
+Train Batch 0069 || Loss: 0.5823
+Train Batch 0070 || Loss: 0.4590
+Train Batch 0071 || Loss: 0.4519
+Train Batch 0072 || Loss: 0.4629
+Train Batch 0073 || Loss: 0.4686
+Train Batch 0074 || Loss: 0.5325
+Train Batch 0075 || Loss: 0.4554
+Train Batch 0076 || Loss: 0.4535
+Train Batch 0077 || Loss: 0.4701
+Train Batch 0078 || Loss: 0.4636
+Train Batch 0079 || Loss: 0.4577
+Train Batch 0080 || Loss: 0.4741
+Train Batch 0081 || Loss: 0.4660
+Train Batch 0082 || Loss: 0.4644
+Train Batch 0083 || Loss: 0.4587
+Train Batch 0084 || Loss: 0.4582
+Train Batch 0085 || Loss: 0.4607
+Train Batch 0086 || Loss: 0.4561
+Train Batch 0087 || Loss: 0.4580
+Train Batch 0088 || Loss: 0.4539
+Train Batch 0089 || Loss: 0.4591
+Train Batch 0090 || Loss: 0.4640
+Train Batch 0091 || Loss: 0.4614
+Train Batch 0092 || Loss: 0.4498
+Train Batch 0093 || Loss: 0.4530
+Train Batch 0094 || Loss: 0.4522
+Train Batch 0095 || Loss: 0.4524
+Train Batch 0096 || Loss: 0.4592
+Train Batch 0097 || Loss: 0.4558
+Train Batch 0098 || Loss: 0.4602
+Train Batch 0099 || Loss: 0.4556
+Train Batch 0100 || Loss: 0.4626
+Train Batch 0101 || Loss: 0.4540
+Train Batch 0102 || Loss: 0.4488
+Train Batch 0103 || Loss: 0.4566
+Train Batch 0104 || Loss: 0.4499
+Train Batch 0105 || Loss: 0.4581
+Train Batch 0106 || Loss: 0.4564
+Train Batch 0107 || Loss: 0.4499
+Train Batch 0108 || Loss: 0.4578
+Train Batch 0109 || Loss: 0.4526
+Train Batch 0110 || Loss: 0.4588
+Train Batch 0111 || Loss: 0.4545
+Train Batch 0112 || Loss: 0.4602
+Train Batch 0113 || Loss: 0.4544
+Train Batch 0114 || Loss: 0.4596
+tcmalloc: large alloc 2220883968 bytes == 0x55b66e420000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0115 || Loss: 0.5575
+Train Batch 0116 || Loss: 0.4561
+Train Batch 0117 || Loss: 0.4530
+Train Batch 0118 || Loss: 0.4544
+Train Batch 0119 || Loss: 0.4486
+Train Batch 0120 || Loss: 0.4528
+Train Batch 0121 || Loss: 0.4533
+Train Batch 0122 || Loss: 0.4567
+Train Batch 0123 || Loss: 0.4490
+Train Batch 0124 || Loss: 0.4554
+Train Batch 0125 || Loss: 0.4514
+Train Batch 0126 || Loss: 0.4508
+Train Batch 0127 || Loss: 0.4478
+Train Batch 0128 || Loss: 0.4508
+Train Batch 0129 || Loss: 0.4496
+Train Batch 0130 || Loss: 0.4516
+Train Batch 0131 || Loss: 0.4559
+Train Batch 0132 || Loss: 0.4539
+Train Batch 0133 || Loss: 0.4533
+Train Batch 0134 || Loss: 0.4488
+Train Batch 0135 || Loss: 0.4549
+Train Batch 0136 || Loss: 0.4524
+Train Batch 0137 || Loss: 0.4501
+Train Batch 0138 || Loss: 0.4484
+Train Batch 0139 || Loss: 0.4463
+Train Batch 0140 || Loss: 0.4500
+Train Batch 0141 || Loss: 0.4466
+Train Batch 0142 || Loss: 0.4489
+Train Batch 0143 || Loss: 0.4484
+Train Batch 0144 || Loss: 0.4453
+Train Batch 0145 || Loss: 0.4506
+Train Batch 0146 || Loss: 0.4506
+Train Batch 0147 || Loss: 0.4473
+Train Batch 0148 || Loss: 0.4508
+Train Batch 0149 || Loss: 0.4501
+Train Batch 0150 || Loss: 0.4481
+Train Batch 0151 || Loss: 0.4472
+Train Batch 0152 || Loss: 0.4482
+Train Batch 0153 || Loss: 0.4477
+Train Batch 0154 || Loss: 0.4472
+Train Batch 0155 || Loss: 0.4474
+Train Batch 0156 || Loss: 0.4422
+Train Batch 0157 || Loss: 0.4473
+Train Batch 0158 || Loss: 0.4558
+Train Batch 0159 || Loss: 0.4393
+Test 0000 || Dice: 0.9907
+Test 0001 || Dice: 0.9643
+Test 0002 || Dice: 0.9799
+Test 0003 || Dice: 0.9770
+Test 0004 || Dice: 0.9646
+Test 0005 || Dice: 0.9823
+Test 0006 || Dice: 0.9793
+Test 0007 || Dice: 0.9805
+Test 0008 || Dice: 0.9749
+Test 0009 || Dice: 0.9713
+Test 0010 || Dice: 0.9772
+Test 0011 || Dice: 0.9786
+Test 0012 || Dice: 0.9701
+Test 0013 || Dice: 0.9768
+Test 0014 || Dice: 0.9743
+Test 0015 || Dice: 0.9675
+Test 0016 || Dice: 0.9708
+Test 0017 || Dice: 0.9769
+Test 0018 || Dice: 0.9593
+Test 0019 || Dice: 0.9299
+Test 0020 || Dice: 0.9755
+Test 0021 || Dice: 0.9702
+Test 0022 || Dice: 0.9803
+Test 0023 || Dice: 0.9781
+Test 0024 || Dice: 0.9689
+Test 0025 || Dice: 0.9115
+Test 0026 || Dice: 0.9766
+Test 0027 || Dice: 0.9817
+Test 0028 || Dice: 0.9800
+Test 0029 || Dice: 0.9812
+Test 0030 || Dice: 0.9803
+Test 0031 || Dice: 0.9802
+Test 0032 || Dice: 0.9786
+Test 0033 || Dice: 0.9804
+Test 0034 || Dice: 0.9760
+Test 0035 || Dice: 0.9800
+Test 0036 || Dice: 0.9790
+Test 0037 || Dice: 0.9218
+Test 0038 || Dice: 0.9765
+Test 0039 || Dice: 0.9843
+Epoch 001 || Loss: 0.4854 | Time: 1551.31 | Test Dice: 0.9722 
+Train Batch 0000 || Loss: 0.4457
+Train Batch 0001 || Loss: 0.4420
+Train Batch 0002 || Loss: 0.4445
+Train Batch 0003 || Loss: 0.4464
+Train Batch 0004 || Loss: 0.4480
+Train Batch 0005 || Loss: 0.4463
+Train Batch 0006 || Loss: 0.4468
+Train Batch 0007 || Loss: 0.4402
+Train Batch 0008 || Loss: 0.5525
+Train Batch 0009 || Loss: 0.4364
+Train Batch 0010 || Loss: 0.4413
+Train Batch 0011 || Loss: 0.4485
+Train Batch 0012 || Loss: 0.4389
+Train Batch 0013 || Loss: 0.4422
+Train Batch 0014 || Loss: 0.4386
+Train Batch 0015 || Loss: 0.4407
+Train Batch 0016 || Loss: 0.4512
+Train Batch 0017 || Loss: 0.4415
+Train Batch 0018 || Loss: 0.4471
+Train Batch 0019 || Loss: 0.4465
+Train Batch 0020 || Loss: 0.4364
+Train Batch 0021 || Loss: 0.4487
+Train Batch 0022 || Loss: 0.4493
+Train Batch 0023 || Loss: 0.4394
+Train Batch 0024 || Loss: 0.5467
+Train Batch 0025 || Loss: 0.4469
+Train Batch 0026 || Loss: 0.4479
+Train Batch 0027 || Loss: 0.4466
+Train Batch 0028 || Loss: 0.4437
+Train Batch 0029 || Loss: 0.4446
+Train Batch 0030 || Loss: 0.4427
+Train Batch 0031 || Loss: 0.4388
+Train Batch 0032 || Loss: 0.4421
+Train Batch 0033 || Loss: 0.4419
+Train Batch 0034 || Loss: 0.4393
+Train Batch 0035 || Loss: 0.4407
+Train Batch 0036 || Loss: 0.4441
+Train Batch 0037 || Loss: 0.4381
+Train Batch 0038 || Loss: 0.4416
+Train Batch 0039 || Loss: 0.4390
+Train Batch 0040 || Loss: 0.4421
+Train Batch 0041 || Loss: 0.4423
+Train Batch 0042 || Loss: 0.4500
+Train Batch 0043 || Loss: 0.4403
+Train Batch 0044 || Loss: 0.4365
+Train Batch 0045 || Loss: 0.4311
+Train Batch 0046 || Loss: 0.4437
+Train Batch 0047 || Loss: 0.4406
+Train Batch 0048 || Loss: 0.4435
+Train Batch 0049 || Loss: 0.5301
+Train Batch 0050 || Loss: 0.4433
+Train Batch 0051 || Loss: 0.4431
+Train Batch 0052 || Loss: 0.4382
+Train Batch 0053 || Loss: 0.4371
+Train Batch 0054 || Loss: 0.4394
+Train Batch 0055 || Loss: 0.4378
+Train Batch 0056 || Loss: 0.4396
+Train Batch 0057 || Loss: 0.4397
+Train Batch 0058 || Loss: 0.4343
+Train Batch 0059 || Loss: 0.4392
+Train Batch 0060 || Loss: 0.4350
+Train Batch 0061 || Loss: 0.4343
+Train Batch 0062 || Loss: 0.4387
+Train Batch 0063 || Loss: 0.4369
+Train Batch 0064 || Loss: 0.4371
+Train Batch 0065 || Loss: 0.4423
+Train Batch 0066 || Loss: 0.4388
+Train Batch 0067 || Loss: 0.4394
+Train Batch 0068 || Loss: 0.4324
+Train Batch 0069 || Loss: 0.4344
+Train Batch 0070 || Loss: 0.4347
+Train Batch 0071 || Loss: 0.4386
+Train Batch 0072 || Loss: 0.4365
+Train Batch 0073 || Loss: 0.4326
+Train Batch 0074 || Loss: 0.4330
+Train Batch 0075 || Loss: 0.4311
+Train Batch 0076 || Loss: 0.4432
+Train Batch 0077 || Loss: 0.5528
+Train Batch 0078 || Loss: 0.4337
+Train Batch 0079 || Loss: 0.4335
+Train Batch 0080 || Loss: 0.4354
+Train Batch 0081 || Loss: 0.4394
+Train Batch 0082 || Loss: 0.4358
+Train Batch 0083 || Loss: 0.4380
+Train Batch 0084 || Loss: 0.4394
+Train Batch 0085 || Loss: 0.4320
+Train Batch 0086 || Loss: 0.4301
+Train Batch 0087 || Loss: 0.4363
+Train Batch 0088 || Loss: 0.4381
+Train Batch 0089 || Loss: 0.4353
+Train Batch 0090 || Loss: 0.4334
+Train Batch 0091 || Loss: 0.4259
+Train Batch 0092 || Loss: 0.4386
+Train Batch 0093 || Loss: 0.4326
+Train Batch 0094 || Loss: 0.4359
+Train Batch 0095 || Loss: 0.4343
+Train Batch 0096 || Loss: 0.4327
+Train Batch 0097 || Loss: 0.4314
+Train Batch 0098 || Loss: 0.4358
+Train Batch 0099 || Loss: 0.4397
+Train Batch 0100 || Loss: 0.4316
+Train Batch 0101 || Loss: 0.4290
+Train Batch 0102 || Loss: 0.4372
+Train Batch 0103 || Loss: 0.4289
+Train Batch 0104 || Loss: 0.4251
+Train Batch 0105 || Loss: 0.4400
+Train Batch 0106 || Loss: 0.4279
+Train Batch 0107 || Loss: 0.4312
+Train Batch 0108 || Loss: 0.4246
+Train Batch 0109 || Loss: 0.4318
+Train Batch 0110 || Loss: 0.4303
+Train Batch 0111 || Loss: 0.4305
+Train Batch 0112 || Loss: 0.4256
+Train Batch 0113 || Loss: 0.4357
+Train Batch 0114 || Loss: 0.4330
+Train Batch 0115 || Loss: 0.4313
+Train Batch 0116 || Loss: 0.4257
+Train Batch 0117 || Loss: 0.4221
+Train Batch 0118 || Loss: 0.4297
+Train Batch 0119 || Loss: 0.4302
+Train Batch 0120 || Loss: 0.4342
+Train Batch 0121 || Loss: 0.4234
+Train Batch 0122 || Loss: 0.4285
+Train Batch 0123 || Loss: 0.4239
+Train Batch 0124 || Loss: 0.4264
+Train Batch 0125 || Loss: 0.4776
+Train Batch 0126 || Loss: 0.4163
+Train Batch 0127 || Loss: 0.4289
+Train Batch 0128 || Loss: 0.4266
+Train Batch 0129 || Loss: 0.4211
+Train Batch 0130 || Loss: 0.4265
+Train Batch 0131 || Loss: 0.4193
+Train Batch 0132 || Loss: 0.4284
+Train Batch 0133 || Loss: 0.4252
+Train Batch 0134 || Loss: 0.4283
+Train Batch 0135 || Loss: 0.4284
+Train Batch 0136 || Loss: 0.4254
+Train Batch 0137 || Loss: 0.4323
+Train Batch 0138 || Loss: 0.4328
+Train Batch 0139 || Loss: 0.4244
+Train Batch 0140 || Loss: 0.4303
+Train Batch 0141 || Loss: 0.4259
+Train Batch 0142 || Loss: 0.4204
+Train Batch 0143 || Loss: 0.4242
+Train Batch 0144 || Loss: 0.4257
+Train Batch 0145 || Loss: 0.4234
+Train Batch 0146 || Loss: 0.4221
+Train Batch 0147 || Loss: 0.4271
+Train Batch 0148 || Loss: 0.5607
+Train Batch 0149 || Loss: 0.4212
+Train Batch 0150 || Loss: 0.4268
+tcmalloc: large alloc 2220883968 bytes == 0x55b66e420000 @  0x7f68cb2bf1e7 0x7f68770f146e 0x7f6877141c7b 0x7f6877141d18 0x7f68771fdd79 0x7f6877200e4c 0x7f6877202095 0x7f68771e0f76 0x7f68771e1c6b 0x55b55214d1bb 0x7f687712eef7 0x55b55220bc47 0x55b55220ba50 0x55b55227f453 0x55b55227a4ae 0x55b55220d3ea 0x55b55227f7f0 0x55b55220f3cb 0x55b552250599 0x55b55225050c 0x55b5522f34d9 0x55b55227b91e 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b3b5 0x55b55227a7ad 0x55b55220d3ea 0x55b55227b60e 0x55b55220d30a 0x55b55227b60e 0x55b55220f3cb
+Train Batch 0151 || Loss: 0.5327
+Train Batch 0152 || Loss: 0.4267
+Train Batch 0153 || Loss: 0.4195
+Train Batch 0154 || Loss: 0.4209
+Train Batch 0155 || Loss: 0.4217
+Train Batch 0156 || Loss: 0.4169
+Train Batch 0157 || Loss: 0.4275
+Train Batch 0158 || Loss: 0.4227
+Train Batch 0159 || Loss: 0.4298
+Test 0000 || Dice: 0.9873
+Test 0001 || Dice: 0.9326
+Test 0002 || Dice: 0.9639
+Test 0003 || Dice: 0.9396
+Test 0004 || Dice: 0.9185
+Test 0005 || Dice: 0.9780
+Test 0006 || Dice: 0.9696
+Test 0007 || Dice: 0.9413
+Test 0008 || Dice: 0.9449
+Test 0009 || Dice: 0.9395
+Test 0010 || Dice: 0.9740
+Test 0011 || Dice: 0.9680
+Test 0012 || Dice: 0.9461
+Test 0013 || Dice: 0.9419
+Test 0014 || Dice: 0.9631
+Test 0015 || Dice: 0.9343
+Test 0016 || Dice: 0.9382
+Test 0017 || Dice: 0.9249
+Test 0018 || Dice: 0.9236
+Test 0019 || Dice: 0.8826
+Test 0020 || Dice: 0.9440
+Test 0021 || Dice: 0.9543
+Test 0022 || Dice: 0.9507
+Test 0023 || Dice: 0.9727
+Test 0024 || Dice: 0.9473
+Test 0025 || Dice: 0.8579
+Test 0026 || Dice: 0.9586
+Test 0027 || Dice: 0.9293
+Test 0028 || Dice: 0.9627
+Test 0029 || Dice: 0.9677
+Test 0030 || Dice: 0.9514
+Test 0031 || Dice: 0.9721
+Test 0032 || Dice: 0.9675
+Test 0033 || Dice: 0.9754
+Test 0034 || Dice: 0.9704
+Test 0035 || Dice: 0.9341
+Test 0036 || Dice: 0.9536
+Test 0037 || Dice: 0.8790
+Test 0038 || Dice: 0.9713
+Test 0039 || Dice: 0.9810
+Epoch 002 || Loss: 0.4393 | Time: 1558.30 | Test Dice: 0.9478 
+Train Batch 0000 || Loss: 0.4281
+Train Batch 0001 || Loss: 0.4271
+Train Batch 0002 || Loss: 0.5428
+Train Batch 0003 || Loss: 0.4214
+Train Batch 0004 || Loss: 0.4219
+Train Batch 0005 || Loss: 0.4174
+Train Batch 0006 || Loss: 0.4264
+Train Batch 0007 || Loss: 0.4192
+Train Batch 0008 || Loss: 0.4247
+Train Batch 0009 || Loss: 0.4267
+Train Batch 0010 || Loss: 0.4285
+Train Batch 0011 || Loss: 0.4161
+Train Batch 0012 || Loss: 0.4158
+Train Batch 0013 || Loss: 0.4197
+Train Batch 0014 || Loss: 0.4199
+Train Batch 0015 || Loss: 0.4184
+Train Batch 0016 || Loss: 0.4088
+Train Batch 0017 || Loss: 0.4144
+Train Batch 0018 || Loss: 0.4232
+Train Batch 0019 || Loss: 0.4232
+Train Batch 0020 || Loss: 0.4209
+Train Batch 0021 || Loss: 0.5524
+Train Batch 0022 || Loss: 0.4171
+Train Batch 0023 || Loss: 0.4154
+Train Batch 0024 || Loss: 0.4199
+Train Batch 0025 || Loss: 0.4263
+Train Batch 0026 || Loss: 0.4131
+Train Batch 0027 || Loss: 0.4107
+Train Batch 0028 || Loss: 0.4150
+Train Batch 0029 || Loss: 0.4175
+Train Batch 0030 || Loss: 0.4117
+Train Batch 0031 || Loss: 0.4261
+Train Batch 0032 || Loss: 0.4161
+Train Batch 0033 || Loss: 0.4287
+Train Batch 0034 || Loss: 0.4001
+Train Batch 0035 || Loss: 0.4201
+Train Batch 0036 || Loss: 0.4247
+Train Batch 0037 || Loss: 0.4026
+Train Batch 0038 || Loss: 0.4259
+Train Batch 0039 || Loss: 0.4118
+Train Batch 0040 || Loss: 0.4153
+Train Batch 0041 || Loss: 0.4178
+Train Batch 0042 || Loss: 0.4110
+Train Batch 0043 || Loss: 0.4197
+Train Batch 0044 || Loss: 0.4222
+Train Batch 0045 || Loss: 0.4106
+Train Batch 0046 || Loss: 0.4160
+Train Batch 0047 || Loss: 0.5584
+Train Batch 0048 || Loss: 0.4156
+Train Batch 0049 || Loss: 0.4205
+Train Batch 0050 || Loss: 0.4241
+Train Batch 0051 || Loss: 0.4113
+Train Batch 0052 || Loss: 0.4101
+Train Batch 0053 || Loss: 0.4170
+Train Batch 0054 || Loss: 0.4065
+Train Batch 0055 || Loss: 0.4262
+Train Batch 0056 || Loss: 0.4168
+Train Batch 0057 || Loss: 0.4167
+Train Batch 0058 || Loss: 0.4169
+Train Batch 0059 || Loss: 0.4224
+Train Batch 0060 || Loss: 0.4089
+Train Batch 0061 || Loss: 0.4086
+Train Batch 0062 || Loss: 0.4194
+Train Batch 0063 || Loss: 0.4064
+Train Batch 0064 || Loss: 0.4219
+Train Batch 0065 || Loss: 0.4206
+Train Batch 0066 || Loss: 0.4079
+Train Batch 0067 || Loss: 0.4161
+Train Batch 0068 || Loss: 0.4143
+Train Batch 0069 || Loss: 0.4255
+Train Batch 0070 || Loss: 0.4128
+Train Batch 0071 || Loss: 0.4117
+Train Batch 0072 || Loss: 0.4137
+Train Batch 0073 || Loss: 0.4099
+Train Batch 0074 || Loss: 0.4207
+Train Batch 0075 || Loss: 0.4152
+Train Batch 0076 || Loss: 0.4239
+Train Batch 0077 || Loss: 0.4186
+Train Batch 0078 || Loss: 0.4147
+Train Batch 0079 || Loss: 0.4147
+Train Batch 0080 || Loss: 0.4224
+Train Batch 0081 || Loss: 0.4040
+Train Batch 0082 || Loss: 0.4028
+Train Batch 0083 || Loss: 0.4104
+Train Batch 0084 || Loss: 0.4075
+Train Batch 0085 || Loss: 0.4105
+Train Batch 0086 || Loss: 0.4025
+Train Batch 0087 || Loss: 0.4154
+Train Batch 0088 || Loss: 0.4081
+Train Batch 0089 || Loss: 0.4144
+Train Batch 0090 || Loss: 0.4149
+Train Batch 0091 || Loss: 0.4084
+Train Batch 0092 || Loss: 0.4090
+Train Batch 0093 || Loss: 0.4016
+Train Batch 0094 || Loss: 0.4054
+Train Batch 0095 || Loss: 0.4168
+Train Batch 0096 || Loss: 0.4178
+Train Batch 0097 || Loss: 0.4087
+Train Batch 0098 || Loss: 0.4118
+Train Batch 0099 || Loss: 0.4129
+Train Batch 0100 || Loss: 0.4182
+Train Batch 0101 || Loss: 0.4088
+Train Batch 0102 || Loss: 0.3994
+Train Batch 0103 || Loss: 0.4125
+Train Batch 0104 || Loss: 0.5468
+Train Batch 0105 || Loss: 0.4016
+Train Batch 0106 || Loss: 0.4083
+Train Batch 0107 || Loss: 0.4047
+Train Batch 0108 || Loss: 0.4102
+Train Batch 0109 || Loss: 0.4000
+Train Batch 0110 || Loss: 0.4139
+Train Batch 0111 || Loss: 0.4088
+Train Batch 0112 || Loss: 0.4082
+Train Batch 0113 || Loss: 0.4165
+Train Batch 0114 || Loss: 0.4150
+Train Batch 0115 || Loss: 0.3921
+Train Batch 0116 || Loss: 0.4101
+Train Batch 0117 || Loss: 0.4061
+Train Batch 0118 || Loss: 0.3954
+Train Batch 0119 || Loss: 0.4148
+Train Batch 0120 || Loss: 0.4000
+Train Batch 0121 || Loss: 0.3960
+Train Batch 0122 || Loss: 0.4076
+Train Batch 0123 || Loss: 0.4088
+Train Batch 0124 || Loss: 0.4031
+Train Batch 0125 || Loss: 0.3968
+Train Batch 0126 || Loss: 0.4107
+Train Batch 0127 || Loss: 0.4070
+Train Batch 0128 || Loss: 0.4066
+Train Batch 0129 || Loss: 0.4185
+Train Batch 0130 || Loss: 0.4035
+Train Batch 0131 || Loss: 0.4119
+Train Batch 0132 || Loss: 0.3895
+Train Batch 0133 || Loss: 0.4101
+Train Batch 0134 || Loss: 0.4044
+Train Batch 0135 || Loss: 0.4121
+Train Batch 0136 || Loss: 0.4069
+Train Batch 0137 || Loss: 0.4036
+Train Batch 0138 || Loss: 0.3984
+Train Batch 0139 || Loss: 0.5446
+Train Batch 0140 || Loss: 0.3965
+Train Batch 0141 || Loss: 0.4087
+Train Batch 0142 || Loss: 0.4081
+Train Batch 0143 || Loss: 0.4479
+Train Batch 0144 || Loss: 0.3997
+Train Batch 0145 || Loss: 0.3938
+Train Batch 0146 || Loss: 0.4003
+Train Batch 0147 || Loss: 0.5418
+Train Batch 0148 || Loss: 0.3805
+Train Batch 0149 || Loss: 0.4142
+Train Batch 0150 || Loss: 0.4055
+Train Batch 0151 || Loss: 0.4050
+Train Batch 0152 || Loss: 0.4162
+Train Batch 0153 || Loss: 0.4062
+Train Batch 0154 || Loss: 0.4020
+Train Batch 0155 || Loss: 0.4057
+Train Batch 0156 || Loss: 0.4043
+Train Batch 0157 || Loss: 0.3994
+Train Batch 0158 || Loss: 0.4073
+Train Batch 0159 || Loss: 0.3982
+Test 0000 || Dice: 0.9872
+Test 0001 || Dice: 0.9275
+Test 0002 || Dice: 0.9529
+Test 0003 || Dice: 0.9409
+Test 0004 || Dice: 0.9184
+Test 0005 || Dice: 0.9787
+Test 0006 || Dice: 0.9663
+Test 0007 || Dice: 0.9404
+Test 0008 || Dice: 0.9397
+Test 0009 || Dice: 0.9371
+Test 0010 || Dice: 0.9728
+Test 0011 || Dice: 0.9627
+Test 0012 || Dice: 0.9486
+Test 0013 || Dice: 0.9392
+Test 0014 || Dice: 0.9559
+Test 0015 || Dice: 0.9323
+Test 0016 || Dice: 0.9335
+Test 0017 || Dice: 0.9275
+Test 0018 || Dice: 0.9302
+Test 0019 || Dice: 0.8858
+Test 0020 || Dice: 0.9429
+Test 0021 || Dice: 0.9561
+Test 0022 || Dice: 0.9444
+Test 0023 || Dice: 0.9715
+Test 0024 || Dice: 0.9453
+Test 0025 || Dice: 0.8460
+Test 0026 || Dice: 0.9527
+Test 0027 || Dice: 0.9303
+Test 0028 || Dice: 0.9597
+Test 0029 || Dice: 0.9602
+Test 0030 || Dice: 0.9500
+Test 0031 || Dice: 0.9714
+Test 0032 || Dice: 0.9623
+Test 0033 || Dice: 0.9760
+Test 0034 || Dice: 0.9633
+Test 0035 || Dice: 0.9342
+Test 0036 || Dice: 0.9521
+Test 0037 || Dice: 0.8917
+Test 0038 || Dice: 0.9659
+Test 0039 || Dice: 0.9768
+Epoch 003 || Loss: 0.4174 | Time: 1562.34 | Test Dice: 0.9458 
+Train Batch 0000 || Loss: 0.4051
+Train Batch 0001 || Loss: 0.4051
+Train Batch 0002 || Loss: 0.4001
+Train Batch 0003 || Loss: 0.3969
+Train Batch 0004 || Loss: 0.3831
+Train Batch 0005 || Loss: 0.3925
+Train Batch 0006 || Loss: 0.3981
+Train Batch 0007 || Loss: 0.4069
+Train Batch 0008 || Loss: 0.3996
+Train Batch 0009 || Loss: 0.4101
+Train Batch 0010 || Loss: 0.3918
+Train Batch 0011 || Loss: 0.4001
+Train Batch 0012 || Loss: 0.4052
+Train Batch 0013 || Loss: 0.3952
+Train Batch 0014 || Loss: 0.3944
+Train Batch 0015 || Loss: 0.4101
+Train Batch 0016 || Loss: 0.3927

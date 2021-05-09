@@ -36,7 +36,7 @@ class MySet(Dataset):
             data = np.resize(data, (1,width,data.shape[2],data.shape[3]))
             mask = np.resize(data, (1,width,mask.shape[2],mask.shape[3]))
         else:
-            start = x//2 - width/2
+            start = x//2 - width//2
             data = data[:,start:start+width,:,:]
             mask = mask[:,start:start+width,:,:]
         mask_tensor = torch.from_numpy(mask)
@@ -58,7 +58,7 @@ def create_list(data_path, ratio=0.8):
 
     label_name = 'segmentation.nii.gz'
     data_name = 'imaging.nii.gz'
-    list_all = [{'data': os.path.join("/content/kits19/data/case_{0:5d}".format(i), data_name), 'label': os.path.join("/content/kits19/data/case_{0:5d}".format(i), label_name)} for i in range(200)]
+    list_all = [{'data': os.path.join("/content/kits19/data/case_{:05d}".format(i), data_name), 'label': os.path.join("/content/kits19/data/case_{:05d}".format(i), label_name)} for i in range(200)]
 
     cut = int(ratio * len(list_all))
     train_list = list_all[:cut]

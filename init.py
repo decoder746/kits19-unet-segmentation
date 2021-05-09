@@ -12,7 +12,7 @@ class InitParser(object):
         # train setting
         self.batch_size = 1
         self.train_ratio = 0.8
-        self.num_epoch = 50
+        self.num_epoch = 10
         self.init_epoch = 1
         self.is_load = False
 
