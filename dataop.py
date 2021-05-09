@@ -26,17 +26,21 @@ class MySet(Dataset):
             mask = np.where(mask>0, 1, 0)
         elif self.segment == 1:
             mask = np.where(mask>1, 1, 0)
+        middle_pos = np.argmax(mask.sum(axis=(1,2)))
         data = self.normalize(data)
         data = data[np.newaxis, :, :, :]
         mask = mask.astype(np.float32)
         mask = mask[np.newaxis, :, :, :]
-        width = 30
+        width = 20
         x = mask.shape[1]
-        if x < width:
-            data = np.resize(data, (1,width,data.shape[2],data.shape[3]))
-            mask = np.resize(data, (1,width,mask.shape[2],mask.shape[3]))
+        if middle_pos + width//2 > x:
+            data = data[:, -width:,:,:]
+            mask = mask[:, -width:,:,:]
+        elif middle_pos - width//2 < 0:
+            data = data[:, 0:width,:,:]
+            mask = mask[:, 0:width,:,:]
         else:
-            start = x//2 - width//2
+            start = middle_pos - width//2
             data = data[:,start:start+width,:,:]
             mask = mask[:,start:start+width,:,:]
         mask_tensor = torch.from_numpy(mask)
