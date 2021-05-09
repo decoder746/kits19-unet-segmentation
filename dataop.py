@@ -35,6 +35,10 @@ class MySet(Dataset):
         if x < width:
             data = np.resize(data, (1,width,data.shape[2],data.shape[3]))
             mask = np.resize(data, (1,width,mask.shape[2],mask.shape[3]))
+        else:
+            start = x//2 - width/2
+            data = data[:,start:start+width,:,:]
+            mask = mask[:,start:start+width,:,:]
         mask_tensor = torch.from_numpy(mask)
         data_tensor = torch.from_numpy(data)
 
